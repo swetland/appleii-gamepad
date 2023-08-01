@@ -38,6 +38,9 @@ I've manufactured the enclosure with a Prusa MK4 3d Printer (in PLA) as well as 
 
 1x DB9 M connector and enclosure
 
+6x Brass heat-set M3 inserts
+
+6x M3 screws
 
 
 ### Limitations
